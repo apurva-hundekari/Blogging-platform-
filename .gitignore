@@ -13,3 +13,6 @@ Thumbs.db
 out/
 node_modules/
 dist/
+node_modules/
+*.log
+.env
